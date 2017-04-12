@@ -6,6 +6,6 @@ html, body {
 
 body {
 	background-image: url('cheese.jpg');
-	background-position: 100% 50%;
+	background-position: 100% 40%;
 	background-size: cover;
 }
